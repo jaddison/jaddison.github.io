@@ -1,3 +1,4 @@
 .webassets-cache/
 less/
+pygments/
 *.less
